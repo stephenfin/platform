@@ -6,7 +6,7 @@
   * ``` sudo apt-get update```
   * ``` sudo apt-get upgrade```
 
-## Setup Database Server
+## Set up Database Server
 1. For the purposes of this guide we will assume this server has an IP address of 10.10.10.1
 1. Install PostgreSQL 9.3+ (or MySQL 5.2+)
   * ``` sudo apt-get install postgresql postgresql-contrib```
